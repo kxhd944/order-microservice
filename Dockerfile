@@ -86,4 +86,4 @@ ENTRYPOINT ["java", "org.springframework.boot.loader.launch.JarLauncher"]
 #   Then set: WORKDIR /app, USER 10001:10001, same COPY lines,
 #   and ENTRYPOINT ["java","org.springframework.boot.loader.JarLauncher"]
 #   (No shell expansion for $JAVA_OPTS; pass flags via JAVA_TOOL_OPTIONS instead.)
-# ------------------------------------------------------------------------------
+#adding changes ------------------------------------------------------------------------------
